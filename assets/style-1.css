@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #05668d;
+}
+
+
+
+header {
+    padding: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: green;
+    color: #F0F3BD;
+    margin: auto;
+
+}
+
+body nav {
+    background-color: #00a896;
+    
+
+}
+
+li a {
+    color: #F0F3BD;
+}
+
+.name {
+    color: white;
+}
+
+
+header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav ul li {
+    display: inline-block
+}
+
+.myphoto {
+    border-radius: 50%;
+}
+
+/* this sets the way my project photos show */
+.mainprojectphoto {
+    height: 500px;
+    width: 800px;
+    opacity: 0.2;
+
+}
+
+.mainprojectphoto:hover, 
+.otherprojects:hover {
+    opacity: 0.5;
+    transition: opacity .20s ease-in-out;
+}
+
+
+.otherprojects {
+    height: 200px;
+    width: 200px;
+    opacity: 0.2;
+
+}
+
+
+
+button {
+    background-color: #02c39a;
+    border: #F0F3BD;
+    color: #F0F3BD;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 20px;
+}
+
+button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
