@@ -12,7 +12,7 @@ N/A
 
 This webpage will be useful for my career and future employment. 
 ![img](./assets/images/Portfolio%20page.png)
-![img](./assets/images/Portfolio%20page%202.png)
+
 
 ## Credits
 Stock photos from https://unsplash.com/
